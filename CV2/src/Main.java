@@ -27,7 +27,7 @@ public class Main {
                 JOptionPane.showMessageDialog(frame, "But you Clicked!");
             }
         });
-        button.addActionListener(new ActionListener() {
+        button1.addActionListener(new ActionListener() {
             public void actionPerformed(ActionEvent e2) {
                 JOptionPane.showMessageDialog(frame, "Great!");
             }
